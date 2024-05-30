@@ -1,0 +1,15 @@
+{
+    "name": "erickcomp/netbeans-php-per-coding-style-compliance",
+    "type": "project",
+    "license": "apache-2.0",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Erickcomp\\NetbeansPhpPERCodingStyleCompliance\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
